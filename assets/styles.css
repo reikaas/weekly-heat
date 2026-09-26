@@ -512,3 +512,31 @@ kbd {
     transition: none;
   }
 }
+
+/* Play-all button */
+.hero-actions {
+  margin: 0.6rem 0 0.2rem;
+}
+
+.play-all {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  background: var(--accent-grad);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.play-all svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.play-all:hover {
+  color: #fff;
+  opacity: 0.9;
+}

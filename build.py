@@ -101,14 +101,33 @@ def footer(data, prefix, note):
 """
 
 
+import re as _re
+
+
+def yt_id(url):
+    m = _re.search(r"(?:v=|youtu\.be/)([\w-]{11})", url or "")
+    return m.group(1) if m else None
+
+
+def ytm_url(url):
+    vid = yt_id(url)
+    return f"https://music.youtube.com/watch?v={vid}" if vid else url
+
+
+def play_all_url(w):
+    ids = [yt_id(t.get("youtube")) for t in w["tracks"]]
+    ids = [i for i in ids if i]
+    return "https://www.youtube.com/watch_videos?video_ids=" + ",".join(ids) if ids else None
+
+
 def track_row(t):
     name = f'{t["artists"]} — {t["title"]}'
     lane = f' · <span class="trk-lane">{e(t["lane"])}</span>' if t.get("lane") else ""
     blurb = f'\n          <p class="trk-blurb">{e(t["blurb"])}</p>' if t.get("blurb") else ""
     play = ""
     if t.get("youtube"):
-        play = (f'\n        <a class="trk-play" href="{e(t["youtube"])}" target="_blank" rel="noopener noreferrer" '
-                f'aria-label="Play {e(name)} on YouTube" title="Play on YouTube">{PLAY_SVG}</a>')
+        play = (f'\n        <a class="trk-play" href="{e(ytm_url(t["youtube"]))}" target="_blank" rel="noopener noreferrer" '
+                f'aria-label="Play {e(name)} on YouTube Music" title="Play on YouTube Music">{PLAY_SVG}</a>')
     return f"""      <li class="trk" id="track-{t["rank"]}">
         <span class="trk-rank" aria-label="Rank {t["rank"]}">{t["rank"]}</span>
         <div class="trk-main">
@@ -140,6 +159,8 @@ def render_week(data, weeks, w, is_index):
         current = "latest" if is_latest else None
     desc = f'Weekly Heat — {w["label"]} house & techno club digs. {n} tracks with why-it-matters.'
     rows = "\n".join(track_row(t) for t in w["tracks"])
+    pa = play_all_url(w)
+    playall_html = (f'\n      <p class="hero-actions"><a class="play-all" href="{e(pa)}" target="_blank" rel="noopener noreferrer">{PLAY_SVG} Play all {n}</a></p>' if pa else "")
 
     # Previous / more weeks strip
     others = [x for x in weeks if x is not w][:PREVIOUS_ON_INDEX]
@@ -155,7 +176,7 @@ def render_week(data, weeks, w, is_index):
   <main>
     <section class="hero wrap">
       <p class="hero-top"><span class="hero-badge">{badge}</span><span class="hero-date">{e(w["label"])}</span><span class="hero-count">{n} tracks</span></p>
-      <p class="hero-scene">{e(w.get("scene", ""))}</p>
+      <p class="hero-scene">{e(w.get("scene", ""))}</p>{playall_html}
       <p class="hero-meta">{e(w.get("sourcesNote", ""))} <span class="kb-hint">Keys: <kbd>j</kbd>/<kbd>k</kbd> to step through play links.</span></p>
     </section>
 
