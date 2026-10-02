@@ -5,13 +5,132 @@
   "sources": "Beatport / Remix DJ Pool; Traxsource when blocked",
   "weeks": [
     {
+      "id": "2026-10-02",
+      "date": "2026-10-02",
+      "label": "2 Oct 2026",
+      "title": "Weekly house & techno heat — 2 Oct 2026",
+      "scene": "Toolroom Exclusive Miami Vice + Turbo Blanco Fancy Footwork fresh drops; CircoLoco Free Your Mind still peaking; Rekids Adam Ten / Drumcode Faithless×Beyer; label pulse on Saved / tszr / RWorks / Kompakt / DRT / LIP SERVICE.",
+      "sourcesNote": "Beatport Top 100s (live this afternoon) + Remix DJ Pool (2 Oct bootleg packs live; Beatport chart mirrors still stale — no fresh October chart posts); Traxsource still 403.",
+      "latest": true,
+      "tracks": [
+        {
+          "rank": 1,
+          "artists": "RSquared",
+          "title": "Ooo La La",
+          "label": "RWorks",
+          "lane": "tech house",
+          "blurb": "#2 Tech House live — RWorks club cutter with a sticky vocal hook built for peak shove.",
+          "youtube": "https://www.youtube.com/watch?v=NtzEM9JyZHU"
+        },
+        {
+          "rank": 2,
+          "artists": "Mark Knight, DJ PP, James Hurr",
+          "title": "Miami Vice",
+          "label": "Toolroom",
+          "lane": "tech house",
+          "blurb": "Fresh 25 Sep Toolroom Exclusive already #4 Tech House — classic Toolroom booth weapon, zero filler.",
+          "youtube": "https://www.youtube.com/watch?v=-G6r3ysdllA"
+        },
+        {
+          "rank": 3,
+          "artists": "Sybil, Cloonee, Prospa",
+          "title": "Free Your Mind",
+          "label": "CircoLoco Records",
+          "lane": "tech house",
+          "blurb": "CircoLoco trio sitting #3 Tech House; Hellbent/CircoLoco peak DNA that empties the bar.",
+          "youtube": "https://www.youtube.com/watch?v=Sti8WUGuVk8"
+        },
+        {
+          "rank": 4,
+          "artists": "Butch, Santos (IT)",
+          "title": "Come Get Up",
+          "label": "Saved Records",
+          "lane": "house",
+          "blurb": "#2 House live, dropped 25 Sep — Saved bounce with proper dancefloor teeth.",
+          "youtube": "https://www.youtube.com/watch?v=QTx2aQ84biE"
+        },
+        {
+          "rank": 5,
+          "artists": "Chromeo, Chris Lorenzo",
+          "title": "Fancy Footwork",
+          "label": "Turbo Blanco",
+          "lane": "house",
+          "blurb": "Brand-new 30 Sep Turbo Blanco flip; Chris Lorenzo peak-house shove on a Chromeo classic.",
+          "youtube": "https://www.youtube.com/watch?v=3ZKq2ptu7qw"
+        },
+        {
+          "rank": 6,
+          "artists": "95 South, SIDEPIECE",
+          "title": "Can I Ride",
+          "label": "LIP SERVICE",
+          "lane": "tech house",
+          "blurb": "Aggregated club-heat #6 — bass-bin LIP SERVICE shove that moves a room.",
+          "youtube": "https://www.youtube.com/watch?v=9cXJp5RgpaM"
+        },
+        {
+          "rank": 7,
+          "artists": "Adam Ten, Yamagucci",
+          "title": "Keep Workin'",
+          "label": "Rekids",
+          "lane": "tech house",
+          "blurb": "#9 Overall Beatport this morning; Rekids rolling heat from Adam Ten with Yamagucci grit.",
+          "youtube": "https://www.youtube.com/watch?v=EF1ioUudRNA"
+        },
+        {
+          "rank": 8,
+          "artists": "SEBS",
+          "title": "Act Up",
+          "label": "tszr",
+          "lane": "tech house",
+          "blurb": "Fresh 25 Sep tszr cutter already #8 Tech House — no-frills peak tool.",
+          "youtube": "https://www.youtube.com/watch?v=rTo1oViAZ5E"
+        },
+        {
+          "rank": 9,
+          "artists": "Frankey & Sandrino",
+          "title": "Disruption",
+          "label": "Kompakt",
+          "lane": "melodic",
+          "blurb": "Taste-anchor duo on Kompakt (25 Sep) — melodic that still bangs, not floaty wallpaper.",
+          "youtube": "https://www.youtube.com/watch?v=GgLGczWaXa0"
+        },
+        {
+          "rank": 10,
+          "artists": "Kyle Watson, Walker & Royce",
+          "title": "Losing Focus",
+          "label": "No Context Records",
+          "lane": "tech house",
+          "blurb": "#10 Tech House; Walker & Royce groove with Kyle Watson swing — properly dancy.",
+          "youtube": "https://www.youtube.com/watch?v=Nq6U7BLmmFM"
+        },
+        {
+          "rank": 11,
+          "artists": "Iraqui ZL, Sonju",
+          "title": "D Da Tira",
+          "label": "DRT Records",
+          "lane": "deep tech",
+          "blurb": "#1 Minimal/Deep Tech live (25 Sep) — deep-tech groove with teeth for late rooms.",
+          "youtube": "https://www.youtube.com/watch?v=E5BY9vUMOdM"
+        },
+        {
+          "rank": 12,
+          "artists": "Faithless",
+          "title": "We Come 1 (Adam Beyer Remix)",
+          "label": "Drumcode",
+          "lane": "peak techno",
+          "blurb": "#1 Peak Time Techno; Drumcode warehouse shove, relentless drums, zero fluff.",
+          "youtube": "https://www.youtube.com/watch?v=0BSks86BFmE"
+        }
+      ]
+    },
+    {
       "id": "2026-09-25",
       "date": "2026-09-25",
       "label": "25 Sep 2026",
       "title": "Weekly house & techno heat — 25 Sep 2026",
       "scene": "Cloonee album rollout / ARC + Mau P Brooklyn heat; label pulse on Hellbent / CircoLoco / Diynamic / NO ART / LTF / Prophecy.",
       "sourcesNote": "Beatport Top 100s (live this morning) + Remix DJ Pool mirrors (still 7 Sep stamp); Traxsource still 403.",
-      "latest": true,
+      "latest": false,
       "tracks": [
         {
           "rank": 1,
