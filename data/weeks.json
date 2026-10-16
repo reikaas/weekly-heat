@@ -5,13 +5,132 @@
   "sources": "Beatport / Remix DJ Pool; Traxsource when blocked",
   "weeks": [
     {
+      "id": "2026-10-16",
+      "date": "2026-10-16",
+      "label": "16 Oct 2026",
+      "title": "Weekly house & techno heat — 16 Oct 2026",
+      "scene": "Solomun DANGER DANGER + Patrick Topping Mi Casa on Diynamic; Cloonee Hellbent wave (What Would I Do / 3:30AM / Paradise); CamelPhat Wicked Weekend; label pulse on Boat Club / NO ART / Positiva / Metamorfosi / Hellbent / X Recordings.",
+      "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 16 Oct 2026 + Remix DJ Pool Beatport mirrors (Tech House / Melodic / Downloads stamped 5 Oct 2026; House / Minimal-Deep / Techno Peak still 7 Sep 2026); Traxsource blocked (403).",
+      "latest": true,
+      "tracks": [
+        {
+          "rank": 1,
+          "artists": "Solomun, Skepta, Dom Dolla",
+          "title": "DANGER DANGER",
+          "label": "Three Six Zero Recordings",
+          "lane": "tech house",
+          "blurb": "#11 aggregated club heat — Solomun taste-anchor collab with Dom Dolla peak shove, no wallpaper.",
+          "youtube": "https://www.youtube.com/watch?v=4eoaXkydIsM"
+        },
+        {
+          "rank": 2,
+          "artists": "Sonny Kane",
+          "title": "Never Leave U",
+          "label": "Boat Club Records",
+          "lane": "tech house",
+          "blurb": "#4 club heat — sticky vocal tech-house cutter built for peak rooms.",
+          "youtube": "https://www.youtube.com/watch?v=egTM0nyZmr0"
+        },
+        {
+          "rank": 3,
+          "artists": "Cloonee, Ranger Trucco",
+          "title": "What Would I Do",
+          "label": "Hellbent Records",
+          "lane": "tech house",
+          "blurb": "Hellbent peak tool — Cloonee groove with Ranger Trucco grit that empties the bar.",
+          "youtube": "https://www.youtube.com/watch?v=fZknRetRDgo"
+        },
+        {
+          "rank": 4,
+          "artists": "Patrick Topping",
+          "title": "Mi Casa",
+          "label": "Diynamic",
+          "lane": "tech house",
+          "blurb": "Taste-anchor Topping on Diynamic — classic booth bounce, properly dancy.",
+          "youtube": "https://www.youtube.com/watch?v=DFlaCVFijgM"
+        },
+        {
+          "rank": 5,
+          "artists": "Kolter",
+          "title": "Hey Everybody",
+          "label": "Positiva",
+          "lane": "house",
+          "blurb": "#12 aggregated — Positiva house weapon with proper dancefloor teeth.",
+          "youtube": "https://www.youtube.com/watch?v=oeDtMcTmc34"
+        },
+        {
+          "rank": 6,
+          "artists": "Joseph Capriati, GENNARO",
+          "title": "Control",
+          "label": "Metamorfosi Records",
+          "lane": "house",
+          "blurb": "Capriati house shove sitting mid-chart — late-room energy that still bangs.",
+          "youtube": "https://www.youtube.com/watch?v=DlmuIXUJ9UQ"
+        },
+        {
+          "rank": 7,
+          "artists": "Rooléh",
+          "title": "Want To Know",
+          "label": "No Art",
+          "lane": "house",
+          "blurb": "NO ART house heat — groove-forward cutter that moves a room.",
+          "youtube": "https://www.youtube.com/watch?v=Q6GXYwnySlU"
+        },
+        {
+          "rank": 8,
+          "artists": "SEBS",
+          "title": "Work It",
+          "label": "Atlantic Records UK",
+          "lane": "deep tech",
+          "blurb": "#27 Minimal/Deep Tech lane — different SEBS cutter from Act Up, deep-tech teeth.",
+          "youtube": "https://www.youtube.com/watch?v=EuI7hBPVCKo"
+        },
+        {
+          "rank": 9,
+          "artists": "Cloonee, SOSA (UK)",
+          "title": "3:30AM (ft. Lzee)",
+          "label": "Hellbent Records",
+          "lane": "tech house",
+          "blurb": "Hellbent late-night ID energy — Cloonee + SOSA peak shove.",
+          "youtube": "https://www.youtube.com/watch?v=FoshKZE-Jow"
+        },
+        {
+          "rank": 10,
+          "artists": "Adriatique",
+          "title": "Palm Of Your Hands",
+          "label": "X Recordings",
+          "lane": "melodic",
+          "blurb": "Melodic that still bangs — dancefloor grind, not floaty ambient.",
+          "youtube": "https://www.youtube.com/watch?v=lZU9Ybf4R0Q"
+        },
+        {
+          "rank": 11,
+          "artists": "CAMELPHAT",
+          "title": "Wicked Weekend",
+          "label": "Diynamic",
+          "lane": "tech house",
+          "blurb": "Fresh Diynamic CamelPhat (not Landlords Nightmare) — peak tech-house shove.",
+          "youtube": "https://www.youtube.com/watch?v=L7aNSyC8Y0Q"
+        },
+        {
+          "rank": 12,
+          "artists": "Chris Lake, Cloonee, Aliyah's Interlude",
+          "title": "Paradise (ft. Aliyah's Interlude)",
+          "label": "Hellbent Records",
+          "lane": "tech house",
+          "blurb": "Hellbent collab heat — Chris Lake × Cloonee peak vocal weapon.",
+          "youtube": "https://www.youtube.com/watch?v=zv-DrIE9DXk"
+        }
+      ]
+    },
+    {
       "id": "2026-10-02",
       "date": "2026-10-02",
       "label": "2 Oct 2026",
       "title": "Weekly house & techno heat — 2 Oct 2026",
       "scene": "Toolroom Exclusive Miami Vice + Turbo Blanco Fancy Footwork fresh drops; CircoLoco Free Your Mind still peaking; Rekids Adam Ten / Drumcode Faithless×Beyer; label pulse on Saved / tszr / RWorks / Kompakt / DRT / LIP SERVICE.",
       "sourcesNote": "Beatport Top 100s (live this afternoon) + Remix DJ Pool (2 Oct bootleg packs live; Beatport chart mirrors still stale — no fresh October chart posts); Traxsource still 403.",
-      "latest": true,
+      "latest": false,
       "tracks": [
         {
           "rank": 1,
