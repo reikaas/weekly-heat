@@ -5,13 +5,132 @@
   "sources": "Beatport / Remix DJ Pool; Traxsource when blocked",
   "weeks": [
     {
+      "id": "2026-10-23",
+      "date": "2026-10-23",
+      "label": "23 Oct 2026",
+      "title": "Weekly house & techno heat — 23 Oct 2026",
+      "scene": "Fresh-chart sweep past the Diynamic/Hellbent heaters already covered: RUZE × Matthew Dear on tszr, Ellis Garner's deep-tech run on COCO, Prospa/Kettama rave-house, Solardo's Marshall Jefferson flip, Beyer/Argy/Alok melodic drive, and Green Velvet's La La Land rework; label pulse on LTF / CircoLoco / Catch & Release / RAVE THE WORLD.",
+      "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 23 Oct 2026 + Remix DJ Pool Beatport mirrors (Tech House / Melodic / Downloads stamped 5 Oct 2026; House / Minimal-Deep / Techno Peak still 7 Sep 2026); Traxsource blocked (403).",
+      "latest": true,
+      "tracks": [
+        {
+          "rank": 1,
+          "artists": "Matthew Dear, RUZE",
+          "title": "313",
+          "label": "tszr",
+          "lane": "tech house",
+          "blurb": "#88 club heat — RUZE taste-anchor link-up with Matthew Dear, Detroit-coded groove with real bite.",
+          "youtube": "https://www.youtube.com/watch?v=WQ2TTNFSWgI"
+        },
+        {
+          "rank": 2,
+          "artists": "Joey London Style, Pheelo",
+          "title": "Never Stop",
+          "label": "SPINNIN' DEEP",
+          "lane": "tech house",
+          "blurb": "#15 aggregated club heat — rolling vocal tech-house that keeps the floor locked.",
+          "youtube": "https://www.youtube.com/watch?v=kGbZ8LJt-4A"
+        },
+        {
+          "rank": 3,
+          "artists": "Avilo, N2N",
+          "title": "Ms. Jackson",
+          "label": "South Of Saturn",
+          "lane": "tech house",
+          "blurb": "#19 club heat — Outkast flip turned peak-time singalong tool, crowds lose it.",
+          "youtube": "https://www.youtube.com/watch?v=B270kxK7iHc"
+        },
+        {
+          "rank": 4,
+          "artists": "Ellis Garner",
+          "title": "Where's The Rhythm",
+          "label": "COCO",
+          "lane": "deep tech",
+          "blurb": "#20 and climbing — Ellis Garner has three tracks in the chart; this is the swingiest deep-tech roller.",
+          "youtube": "https://www.youtube.com/watch?v=o0-mcvhCnBQ"
+        },
+        {
+          "rank": 5,
+          "artists": "jairo delli",
+          "title": "Ritmo",
+          "label": "LTF Records",
+          "lane": "tech house",
+          "blurb": "#22 club heat — percussive Latin tech house built for the 1am push.",
+          "youtube": "https://www.youtube.com/watch?v=6_YD8-IbauY"
+        },
+        {
+          "rank": 6,
+          "artists": "Jamback",
+          "title": "Positive",
+          "label": "CircoLoco Records",
+          "lane": "deep tech",
+          "blurb": "#24 — CircoLoco deep tech with teeth, Ibiza-closing-season energy.",
+          "youtube": "https://www.youtube.com/watch?v=COqeUEhmWwA"
+        },
+        {
+          "rank": 7,
+          "artists": "Torren Foot, Rhys from the Sticks",
+          "title": "DANCE",
+          "label": "Good Fortune Records",
+          "lane": "tech house",
+          "blurb": "#30 club heat — does what the title says, a blunt peak-time bouncer.",
+          "youtube": "https://www.youtube.com/watch?v=EYJxGbpaoqU"
+        },
+        {
+          "rank": 8,
+          "artists": "Prospa, Kettama, Rohan Pinnock-Hamilton",
+          "title": "Think of You",
+          "label": "Steel City Dance Discs",
+          "lane": "house",
+          "blurb": "#31 — Prospa and Kettama rave-house with a vocal hook that lifts the room.",
+          "youtube": "https://www.youtube.com/watch?v=d2iWMT9lBb4"
+        },
+        {
+          "rank": 9,
+          "artists": "Öwnboss",
+          "title": "Pop This",
+          "label": "Catch & Release",
+          "lane": "tech house",
+          "blurb": "#42 — Fisher's label, chunky bassline tech house that's all floor, no filler.",
+          "youtube": "https://www.youtube.com/watch?v=sPoVROa6C0s"
+        },
+        {
+          "rank": 10,
+          "artists": "Marshall Jefferson, Solardo",
+          "title": "Move Your Body",
+          "label": "Ultra",
+          "lane": "tech house",
+          "blurb": "#54 — the house anthem rebuilt by Solardo as a big-room tech-house shove.",
+          "youtube": "https://www.youtube.com/watch?v=yFdbueklpwY"
+        },
+        {
+          "rank": 11,
+          "artists": "Adam Beyer, Argy, Alok",
+          "title": "Keep Up",
+          "label": "RAVE THE WORLD",
+          "lane": "melodic",
+          "blurb": "#78 — melodic techno that drives instead of drifting, made for the main room.",
+          "youtube": "https://www.youtube.com/watch?v=pUVYqacxNdY"
+        },
+        {
+          "rank": 12,
+          "artists": "Green Velvet, Meduza, GENESI (ITA), ESSENTIA (IT)",
+          "title": "La La Land",
+          "label": "Broke",
+          "lane": "tech house",
+          "blurb": "New entry at #100 — Green Velvet's classic reworked as a fresh peak-time weapon.",
+          "youtube": "https://www.youtube.com/watch?v=nVbrJKlDUmU"
+        }
+      ]
+    },
+    {
       "id": "2026-10-16",
       "date": "2026-10-16",
       "label": "16 Oct 2026",
       "title": "Weekly house & techno heat — 16 Oct 2026",
       "scene": "Solomun DANGER DANGER + Patrick Topping Mi Casa on Diynamic; Cloonee Hellbent wave (What Would I Do / 3:30AM / Paradise); CamelPhat Wicked Weekend; label pulse on Boat Club / NO ART / Positiva / Metamorfosi / Hellbent / X Recordings.",
       "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 16 Oct 2026 + Remix DJ Pool Beatport mirrors (Tech House / Melodic / Downloads stamped 5 Oct 2026; House / Minimal-Deep / Techno Peak still 7 Sep 2026); Traxsource blocked (403).",
-      "latest": true,
+      "latest": false,
       "tracks": [
         {
           "rank": 1,
