@@ -5,13 +5,132 @@
   "sources": "Beatport / Remix DJ Pool; Traxsource when blocked",
   "weeks": [
     {
+      "id": "2026-10-30",
+      "date": "2026-10-30",
+      "label": "30 Oct 2026",
+      "title": "Weekly house & techno heat — 30 Oct 2026",
+      "scene": "Fresh-chart sweep led by Solid Grooves (Beave's Zoolander tops the whole of Beatport), Rossi.'s double on Room Two and his own label, Trick and Hot Creations tech-house tools, Hellbent's next one from Jay de Lys, Lapsus and Dansu house heaters, KASIA's Faithless flip on Drumcode, and Arodes topping melodic.",
+      "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 30 Oct 2026 + Remix DJ Pool Beatport mirrors (House / Minimal-Deep / Techno Peak stamped 26 Oct 2026; Tech House / Melodic / Downloads still 5 Oct 2026); Traxsource blocked (403).",
+      "latest": true,
+      "tracks": [
+        {
+          "rank": 1,
+          "artists": "Beave",
+          "title": "Zoolander",
+          "label": "Solid Grooves Records",
+          "lane": "deep tech",
+          "blurb": "#1 on Beatport's overall Top 100 and #1 Minimal/Deep Tech — PAWSA's Solid Grooves has the biggest record in the shop right now.",
+          "youtube": "https://www.youtube.com/watch?v=MbJZbarQAgM"
+        },
+        {
+          "rank": 2,
+          "artists": "A.B.C., Rossi., Silva Bumpa",
+          "title": "PEOPLE IN THE PLACE",
+          "label": "Room Two Recordings",
+          "lane": "deep tech",
+          "blurb": "#2 Deep Tech, #6 overall — Rossi. and Silva Bumpa's swung, shouty roller is all over UK warehouse sets.",
+          "youtube": "https://www.youtube.com/watch?v=KNeDMGq6vLw"
+        },
+        {
+          "rank": 3,
+          "artists": "Danis (TS), Trace (UZ), Disla (UZ)",
+          "title": "Flashing Lights",
+          "label": "Lapsus Music",
+          "lane": "house",
+          "blurb": "#3 House, #5 overall — Lapsus breakout with a hands-up vocal hook over a hard-swinging groove.",
+          "youtube": "https://www.youtube.com/watch?v=38zCMWXhn80"
+        },
+        {
+          "rank": 4,
+          "artists": "HILLS (US)",
+          "title": "Check It Out",
+          "label": "Trick",
+          "lane": "tech house",
+          "blurb": "#8 Tech House on Patrick Topping's Trick — bouncy, no-nonsense peak-time tool straight from an anchor's label.",
+          "youtube": "https://www.youtube.com/watch?v=a9KF9iDN_9g"
+        },
+        {
+          "rank": 5,
+          "artists": "Jay de Lys",
+          "title": "In Europe",
+          "label": "Hellbent Records",
+          "lane": "tech house",
+          "blurb": "#7 Tech House, #28 overall — Cloonee's Hellbent keeps the hits coming with this chunky, cheeky floor-filler.",
+          "youtube": "https://www.youtube.com/watch?v=xbY97sCNkW4"
+        },
+        {
+          "rank": 6,
+          "artists": "Bontan",
+          "title": "Talking Slow",
+          "label": "Hot Creations",
+          "lane": "tech house",
+          "blurb": "#11 Tech House on Jamie Jones' Hot Creations — rubbery bass and a sly vocal that locks the room in.",
+          "youtube": "https://www.youtube.com/watch?v=33ZtZUMrD1s"
+        },
+        {
+          "rank": 7,
+          "artists": "Teedee",
+          "title": "Bad Love",
+          "label": "Insomniac Records",
+          "lane": "deep tech",
+          "blurb": "#3 Deep Tech, #17 overall — gritty bassline deep tech with teeth, built for the 2am stretch.",
+          "youtube": "https://www.youtube.com/watch?v=iP7slNwS7QQ"
+        },
+        {
+          "rank": 8,
+          "artists": "Snoop Dogg, HUGEL",
+          "title": "H.O.U.S.E",
+          "label": "Make The Girls Dance Records",
+          "lane": "house",
+          "blurb": "#4 House, #8 overall — HUGEL turns a Snoop hook into a big-room house singalong; crowd-pleaser energy.",
+          "youtube": "https://www.youtube.com/watch?v=RN1Y_8ig6e0"
+        },
+        {
+          "rank": 9,
+          "artists": "ODF",
+          "title": "Don't Look Back",
+          "label": "Dansu Discs",
+          "lane": "house",
+          "blurb": "#7 House, #15 overall — punchy, piano-flecked house cut climbing fast on Dansu Discs.",
+          "youtube": "https://www.youtube.com/watch?v=K7DZY1F33pg"
+        },
+        {
+          "rank": 10,
+          "artists": "Faithless",
+          "title": "Tarantula (KASIA Remix)",
+          "label": "Drumcode",
+          "lane": "peak techno",
+          "blurb": "#2 Peak Time Techno — KASIA rebuilds the Faithless classic as a driving Drumcode weapon, right behind Beyer's We Come 1 rework.",
+          "youtube": "https://www.youtube.com/watch?v=snwsRSZs_qw"
+        },
+        {
+          "rank": 11,
+          "artists": "Arodes",
+          "title": "Kaleido",
+          "label": "Unreleased Records",
+          "lane": "melodic techno",
+          "blurb": "#1 Melodic House & Techno — Arodes' driving, arpeggio-led melodic cut that keeps the kick front and centre.",
+          "youtube": "https://www.youtube.com/watch?v=lSEpiIjvPGg"
+        },
+        {
+          "rank": 12,
+          "artists": "Rossi.",
+          "title": "Misery",
+          "label": "ROSSI.HOME//GRXWN.",
+          "lane": "deep tech",
+          "blurb": "#4 on the 26 Oct Remix DJ Pool deep-tech mirror and #17 on Beatport — Rossi.'s second entry this week, dark and swinging.",
+          "youtube": "https://www.youtube.com/watch?v=ABI5o3IfyAs"
+        }
+      ]
+    },
+    {
       "id": "2026-10-23",
       "date": "2026-10-23",
       "label": "23 Oct 2026",
       "title": "Weekly house & techno heat — 23 Oct 2026",
       "scene": "Fresh-chart sweep past the Diynamic/Hellbent heaters already covered: RUZE × Matthew Dear on tszr, Ellis Garner's deep-tech run on COCO, Prospa/Kettama rave-house, Solardo's Marshall Jefferson flip, Beyer/Argy/Alok melodic drive, and Green Velvet's La La Land rework; label pulse on LTF / CircoLoco / Catch & Release / RAVE THE WORLD.",
       "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 23 Oct 2026 + Remix DJ Pool Beatport mirrors (Tech House / Melodic / Downloads stamped 5 Oct 2026; House / Minimal-Deep / Techno Peak still 7 Sep 2026); Traxsource blocked (403).",
-      "latest": true,
+      "latest": false,
       "tracks": [
         {
           "rank": 1,
