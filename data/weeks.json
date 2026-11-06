@@ -5,13 +5,132 @@
   "sources": "Beatport / Remix DJ Pool; Traxsource when blocked",
   "weeks": [
     {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "label": "6 Nov 2026",
+      "title": "Weekly house & techno heat — 6 Nov 2026",
+      "scene": "Fresh-chart week led by Disorder's Sapian climbing tech house, Defected's Route 94 collab, Hot Creations and Hellbent tools from Chiqito and Cloonee, Saved/Baker's Dozen/Safelight house heaters, Short Circuit and BINARY deep-tech rollers, Solid Grooves Raw's Crewcutz, and Drumcode's Synchronize as the peak weapon.",
+      "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 6 Nov 2026 + Remix DJ Pool Beatport mirrors (Downloads stamped ~2 Nov 2026; House / Minimal-Deep / Techno Peak stamped 26 Oct 2026; Tech House / Melodic still 5 Oct 2026; no Nov genre Top 100 posts yet); Traxsource blocked (403).",
+      "latest": true,
+      "tracks": [
+        {
+          "rank": 1,
+          "artists": "Sapian",
+          "title": "Takes Me",
+          "label": "Disorder",
+          "lane": "tech house",
+          "blurb": "#2 Tech House and climbing the overall chart — rubbery Disorder bass tool built for peak-time DJ support.",
+          "youtube": "https://www.youtube.com/watch?v=OXRj7rhXJpc"
+        },
+        {
+          "rank": 2,
+          "artists": "Route 94, Mason Collective, VLAD (UK)",
+          "title": "Tell You Why",
+          "label": "Defected",
+          "lane": "tech house",
+          "blurb": "#3 Tech House on Defected — UK garage-leaning tech-house heater with a vocal that locks rooms.",
+          "youtube": "https://www.youtube.com/watch?v=tZP04p565cE"
+        },
+        {
+          "rank": 3,
+          "artists": "Chiqito",
+          "title": "Marimbas",
+          "label": "Hot Creations",
+          "lane": "tech house",
+          "blurb": "Fresh on Jamie Jones' Hot Creations — percussive, bouncy tech-house groove with marimba hooks that move a floor.",
+          "youtube": "https://www.youtube.com/watch?v=j_JEW7kPrg8"
+        },
+        {
+          "rank": 4,
+          "artists": "Cloonee, Jocelyn Enriquez",
+          "title": "Xtc",
+          "label": "Hellbent Records",
+          "lane": "tech house",
+          "blurb": "Cloonee's Hellbent keeps the hits coming — cheeky vocal tech-house built for hands-up club moments.",
+          "youtube": "https://www.youtube.com/watch?v=-tH_-NEQD78"
+        },
+        {
+          "rank": 5,
+          "artists": "Luuk Van Dijk, Sierra Volt",
+          "title": "Pretty Girl",
+          "label": "tszr",
+          "lane": "house",
+          "blurb": "#7 House — swung, vocal-led house roller climbing fast on tszr.",
+          "youtube": "https://www.youtube.com/watch?v=vA35voJtHAc"
+        },
+        {
+          "rank": 6,
+          "artists": "Tommy Phillips",
+          "title": "Sun is Shining (Lovelee Dae)",
+          "label": "Safelight Records",
+          "lane": "house",
+          "blurb": "Safelight's Lovelee Dae flip — warm, peak-dancefloor house energy with a classic vocal cut.",
+          "youtube": "https://www.youtube.com/watch?v=Jri5BZi7bU0"
+        },
+        {
+          "rank": 7,
+          "artists": "Joseph Capriati",
+          "title": "Saudade",
+          "label": "Saved Records",
+          "lane": "house",
+          "blurb": "#8 House on Saved — Capriati's driving, melodic-edged house cut with serious DJ support.",
+          "youtube": "https://www.youtube.com/watch?v=QUycJPjiYcM"
+        },
+        {
+          "rank": 8,
+          "artists": "Josh Baker, Poppy Baskcomb",
+          "title": "My Place",
+          "label": "Baker's Dozen",
+          "lane": "house",
+          "blurb": "Baker's Dozen vocal house tool — groovy, room-moving and already deep in DJ bags.",
+          "youtube": "https://www.youtube.com/watch?v=sK4n2s4kRJk"
+        },
+        {
+          "rank": 9,
+          "artists": "Jeff Sorkowitz",
+          "title": "Feel The Same",
+          "label": "Short Circuit",
+          "lane": "deep tech",
+          "blurb": "Short Circuit deep-tech roller with teeth — swung bass and a hypnotic vocal chop for the 1am stretch.",
+          "youtube": "https://www.youtube.com/watch?v=xaYih-CVS60"
+        },
+        {
+          "rank": 10,
+          "artists": "Ellis Garner",
+          "title": "Take Them Back",
+          "label": "BINARY",
+          "lane": "deep tech",
+          "blurb": "BINARY peak deep-tech weapon — tough groove and shouty energy after Where's The Rhythm's run.",
+          "youtube": "https://www.youtube.com/watch?v=P9PEDBqBfhc"
+        },
+        {
+          "rank": 11,
+          "artists": "Crewcutz",
+          "title": "Disco Jungle",
+          "label": "Solid Grooves Raw",
+          "lane": "deep tech",
+          "blurb": "Solid Grooves Raw disco-tech roller — PAWSA's lane keeps punching with a wild, dancefloor swing.",
+          "youtube": "https://www.youtube.com/watch?v=NC1dTcJt0dc"
+        },
+        {
+          "rank": 12,
+          "artists": "Adam Beyer, Mark Reeve",
+          "title": "Synchronize",
+          "label": "Drumcode",
+          "lane": "peak techno",
+          "blurb": "#2 Peak Time Techno on Drumcode — driving peak weapon right behind the We Come 1 rework.",
+          "youtube": "https://www.youtube.com/watch?v=VK0n_rGzRuc"
+        }
+      ]
+    },
+    {
       "id": "2026-10-30",
       "date": "2026-10-30",
       "label": "30 Oct 2026",
       "title": "Weekly house & techno heat — 30 Oct 2026",
       "scene": "Fresh-chart sweep led by Solid Grooves (Beave's Zoolander tops the whole of Beatport), Rossi.'s double on Room Two and his own label, Trick and Hot Creations tech-house tools, Hellbent's next one from Jay de Lys, Lapsus and Dansu house heaters, KASIA's Faithless flip on Drumcode, and Arodes topping melodic.",
       "sourcesNote": "Live Beatport Top 100 (all 6 genres) fetched 30 Oct 2026 + Remix DJ Pool Beatport mirrors (House / Minimal-Deep / Techno Peak stamped 26 Oct 2026; Tech House / Melodic / Downloads still 5 Oct 2026); Traxsource blocked (403).",
-      "latest": true,
+      "latest": false,
       "tracks": [
         {
           "rank": 1,
